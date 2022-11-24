@@ -1,1 +1,9 @@
+table {
+    background: blueviolet;
 
+}
+
+table tr td {
+    border: 1px solid ;
+    border-color: blue;
+}
